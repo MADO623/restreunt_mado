@@ -3,7 +3,7 @@
 // Main Layout
 // Main Components 
 // rfc => React function component
-import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
+import {  Route, Routes, useLocation } from "react-router-dom";
 import Dashboard from "./pages/Dashboard/Dashboard";
 import SideMenu from "./components/SideMenu/SideMenu";
 import { useEffect, useState } from "react";
